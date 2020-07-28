@@ -1,4 +1,4 @@
-# _Pusheen's Vendor and Order Tracker_
+# Animal Shelter
 
 #### _Database Application, Weekday Project for Epicodus, 07.28.2020_
 
@@ -15,7 +15,6 @@ This application for an animal shelter to track the animals in their facility ba
 |----------|:-------------:|------:|
 | User will add a type of animal | dog | Animal dog = new Dog(); |
 | User will then fill out animal details: name, gender, date of admittance, and breed  | name = "Twinkle", gender = "male", date = 07/28/2020, breed="German Shepard" | dog("Twinkle", "male", "07/28/2020", "German Shepard") |
-| | | |
 
 ## Setup/Installation Requirements
 
